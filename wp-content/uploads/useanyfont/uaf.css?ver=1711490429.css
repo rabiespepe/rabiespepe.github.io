@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'wolf';
+					src: url('4379wolf.woff2') format('woff2'),
+						url('4379wolf.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.wolf{font-family: 'wolf' !important;}
+
+		

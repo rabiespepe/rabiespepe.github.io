@@ -1,0 +1,512 @@
+.elementor-8 .elementor-element.elementor-element-41adee5:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-41adee5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-41adee5 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-41adee5>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-8 .elementor-element.elementor-element-e35839a.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-e35839a.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-3dd5c78 {
+    text-align: left;
+}
+
+.elementor-8 .elementor-element.elementor-element-3dd5c78 img {
+    width: 55%;
+}
+
+.elementor-bc-flex-widget .elementor-8 .elementor-element.elementor-element-4527f3e.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4527f3e.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(20px/2);
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(20px/2);
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(20px/2);
+    margin-left: calc(20px/2);
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-20px/2);
+    margin-left: calc(-20px/2);
+}
+
+body.rtl .elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-20px/2);
+}
+
+body:not(.rtl) .elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-20px/2);
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-item>a {
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-text {
+    color: #FFFFFF;
+    transition: color 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5246ccb .elementor-icon-list-item:hover .elementor-icon-list-text {
+    color: #FF0000;
+}
+
+.elementor-bc-flex-widget .elementor-8 .elementor-element.elementor-element-09b43d0.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-09b43d0.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-822ed21 .elementor-button {
+    font-family: "Caveat", cursive;
+    font-size: 26px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-822ed21 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-822ed21 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-822ed21 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-822ed21 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-ebadead>.elementor-container {
+    min-height: 700px;
+}
+
+.elementor-8 .elementor-element.elementor-element-ebadead:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-ebadead>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-ebadead {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-ebadead>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-8135e8a img {
+    width: 40%;
+}
+
+.elementor-8 .elementor-element.elementor-element-f15b88e>.elementor-container {
+    min-height: 700px;
+}
+
+.elementor-8 .elementor-element.elementor-element-f15b88e:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-f15b88e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-f15b88e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f15b88e>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-9162636 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-9162636 img {
+    width: 85%;
+}
+
+.elementor-8 .elementor-element.elementor-element-57cd062 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-57cd062 .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.elementor-8 .elementor-element.elementor-element-296c9bd {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-296c9bd .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Caveat", cursive;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+.elementor-8 .elementor-element.elementor-element-96e77ce .elementor-button {
+    font-family: "Caveat", cursive;
+    font-size: 26px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-96e77ce .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-96e77ce .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-96e77ce .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-96e77ce .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-e7ceb28 .elementor-button {
+    font-family: "Caveat", cursive;
+    font-size: 26px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-e7ceb28 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-e7ceb28 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-e7ceb28 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-e7ceb28 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-89a7d49 img {
+    width: 65%;
+}
+
+.elementor-8 .elementor-element.elementor-element-94c514d>.elementor-container {
+    min-height: 1000px;
+}
+
+.elementor-8 .elementor-element.elementor-element-94c514d:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-94c514d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-94c514d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-94c514d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4ce3a13 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-4ce3a13 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Caveat", cursive;
+    font-size: 65px;
+    font-weight: normal;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+    text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-8 .elementor-element.elementor-element-09c0f38>.elementor-widget-container {
+    margin: 0px 20px 0px 20px;
+    border-style: solid;
+    border-width: 8px 8px 8px 8px;
+    border-color: #000000;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-8 .elementor-element.elementor-element-eddfe7f>.elementor-container {
+    min-height: 600px;
+}
+
+.elementor-8 .elementor-element.elementor-element-eddfe7f:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-eddfe7f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-eddfe7f {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-eddfe7f>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-caebca7 img {
+    width: 55%;
+}
+
+.elementor-8 .elementor-element.elementor-element-49c99ab {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-49c99ab .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Caveat", cursive;
+    font-size: 65px;
+    font-weight: normal;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+    text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-8 .elementor-element.elementor-element-882744b {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-882744b .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.elementor-8 .elementor-element.elementor-element-86e57f8 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-86e57f8 .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Caveat", cursive;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.elementor-8 .elementor-element.elementor-element-d2c58cf {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-d2c58cf .elementor-heading-title {
+    color: #000000;
+    font-family: "Caveat", cursive;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d87756 .elementor-button {
+    font-family: "Caveat", cursive;
+    font-size: 26px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d87756 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-3d87756 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d87756 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-3d87756 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-11b43b8 .elementor-button {
+    font-family: "Caveat", cursive;
+    font-size: 26px;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.elementor-8 .elementor-element.elementor-element-11b43b8 .elementor-button:hover,
+.elementor-8 .elementor-element.elementor-element-11b43b8 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-11b43b8 .elementor-button:hover svg,
+.elementor-8 .elementor-element.elementor-element-11b43b8 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-9567b22:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-9567b22>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-9567b22 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-9567b22>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-65c0378 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-65c0378 .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Caveat", cursive;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:767px) {
+    .elementor-8 .elementor-element.elementor-element-3dd5c78 {
+        text-align: center;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-8135e8a img {
+        width: 75%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-296c9bd .elementor-heading-title {
+        font-size: 13px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-eddfe7f>.elementor-container {
+        min-height: 800px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-eddfe7f {
+        padding: 0px 0px 100px 0px;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-d2c58cf .elementor-heading-title {
+        font-size: 13px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-8 .elementor-element.elementor-element-e35839a {
+        width: 25.087%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-4527f3e {
+        width: 49.49%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-09b43d0 {
+        width: 25.087%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-d0b670e {
+        width: 53.421%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-316b305 {
+        width: 47.961%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-af3871b {
+        width: 52.038%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-e94b332 {
+        width: 46.535%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-e5b85a3 {
+        width: 46.535%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-f551240 {
+        width: 53.421%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-f6bda0b {
+        width: 47.961%;
+    }
+
+    .elementor-8 .elementor-element.elementor-element-e960e64 {
+        width: 52.038%;
+    }
+}
